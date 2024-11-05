@@ -40,9 +40,9 @@ Some of the projects I worked while at BeCode are a [cookieClicker](https://gith
 
 ### Latest Projects or Ideas
 
-- Error Calculator: A easy to use web app where an user can build LaTeX type equations using buttons and output the result to the clipboard.
-          - An extra would be a drag and drop design, that is for a future recreation.
-- A small webshhop for my father, to help his small business organize clients.
+- Error Calculator: A easy to use web app where an user can build LaTeX type equations using buttons and outputs the result to the clipboard.
+          - An extra would be a drag and drop design.
+- A small webshop for my father, to help his small business organize clients and delivery routes.
 
 #
 
