@@ -51,7 +51,7 @@ Some of the projects I worked while at BeCode are a [cookieClicker](https://gith
 <details>
 <summary><h3>🚲 My coding journey</h3></summary>
 My coding journey is just starting as I complete a Junior Web Dev bootcamp at BeCode. Before that, I had several years of university where I explored different areas, going from Biomedical Sciences, Nursing, and ending at Physics. I ended up noticing that the academic environment was not for me, even if I ended up learning a lot and also developed many of my current ideals and work ethic. I had the opportunity to meet different people with different backgrounds and work with them while facing hard classes and challenges.
-
+          
 Coding always fascinated me, especially the idea of being able to build something by myself using the different tools available. Having the chance to learn new technologies or old ideas and methods to solve a problem keeps it interesting, even if most of the times it's hard to accomplish.
 
 I still have much to learn and understand, but one thing I can be sure of is that once I'm in the field and working hard, I will succeed at anything that I put my mind to.
