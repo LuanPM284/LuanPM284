@@ -1,4 +1,4 @@
-## Hi there 👋
+## Luan Patrick Machado 🛸
 
 **`Junior Web Dev`**
 
@@ -8,11 +8,10 @@ I'm currently a Junior Web Developer trainee at BeCode, passionate about learnin
 Node.js, Java, Python and others. I have experience working in fast-paced environments where adaptability and teamwork are key. My current goal is to apply my technical skills and problem-solving abilities in a challenging internship or junior
 developer role. I am open to new opportunities where I can continue growing and contribute to meaningful projects.
 
-Some of the projects I worked while at BeCode are a ![cookieClicker](https://github.com/LuanPM284/cookieClicker) and a Netflix clone name GetFlix.
+Some of the projects I worked while at BeCode are a [cookieClicker](https://github.com/LuanPM284/cookieClicker) game, the first group project, and a Netflix clone named [GetFlix](https://github.com/anthosaxe/getflix), where the idea is to have the movies with the worst reviews.
 
-https://github.com/LuanPM284/cookieClicker
-
-https://github.com/anthosaxe/getflix
+---
+### 🏗 Language and Tools
 
 <!--
 **LuanPM284/LuanPM284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
