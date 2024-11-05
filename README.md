@@ -10,6 +10,14 @@ developer role. I am open to new opportunities where I can continue growing and 
 
 Some of the projects I worked while at BeCode are a [cookieClicker](https://github.com/LuanPM284/cookieClicker) game, the first group project, and a Netflix clone named [GetFlix](https://github.com/anthosaxe/getflix), where the idea is to have the movies with the worst reviews.
 
+My hobbies include reading and manga/anime. Some of my recent favorites are:
+
+- Author: Brandon Sanderson
+- Series: The Stormlight Archive
+- Current Webnovel Obsession: The Wandering Inn and Shadow Slave
+- Anime: Frieren
+- Manga/Manhwa: Dungeon Odyssey
+
 ---
 
 ### 🧰 Languages and Tools
