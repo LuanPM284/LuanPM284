@@ -15,7 +15,7 @@ My hobbies include reading and manga/anime. Some of my recent favorites are:
 - Author: Brandon Sanderson
 - Series: The Stormlight Archive
 - Current Webnovel Obsession: The Wandering Inn and Shadow Slave
-- Anime: Frieren
+- Anime: One Piece, Frieren
 - Manga/Manhwa: Dungeon Odyssey
 
 ---
