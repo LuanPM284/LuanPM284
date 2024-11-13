@@ -1,6 +1,6 @@
 ## Luan Patrick Machado 🛸
 
-**`Junior Web Dev`**
+## **`Junior Web Dev`**
 
 I have a strong interest in new technologies such as cloud, data, and AI. One of my future goals is to become proficient in those areas and possibly create personal projects that would allow me to apply that knowledge. Always open to learning and hearing new ideas, I believe that my years studying physics allowed me to appreciate the feedback of others and the different ways someone can approach a problem.
 
