@@ -1,6 +1,6 @@
 ## Luan Patrick Machado 🛸
 
-## **`Junior Web Dev`**
+## **`Junior Dev`**
 
 I have a strong interest in new technologies such as cloud, data, and AI. One of my future goals is to become proficient in those areas and possibly create personal projects that would allow me to apply that knowledge. Always open to learning and hearing new ideas, I believe that my years studying physics allowed me to appreciate the feedback of others and the different ways someone can approach a problem.
 
@@ -35,6 +35,7 @@ My hobbies include reading and manga/anime. Some of my recent favorites are:
 
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="Blazor" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
