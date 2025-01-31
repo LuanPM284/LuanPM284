@@ -46,10 +46,10 @@ During my two-month internship, I focused on front-end development for two major
 
 ### 🛠️ Tech Stack
 
-**Languages:** C#, JavaScript, HTML, CSS
-**Frameworks & Libraries:** Blazor, .NET, Entity Framework Core
-**Tools & Platforms:** Azure, Visual Studio, Git, SQL Server
-**Development Practices:** MVVM, Clean Code, Agile, TDD
+- **Languages:** C#, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** Blazor, .NET, Entity Framework Core
+- **Tools & Platforms:** Azure, Visual Studio, Git, SQL Server
+- **Development Practices:** MVVM, Clean Code, Agile, TDD
 
 
 ### 📚 What I Learned
@@ -97,7 +97,7 @@ During my two-month internship, I focused on front-end development for two major
 
 #
 
-### Latest Projects or Ideas
+### Latest Personal Projects and Ideas
 
 - Error Calculator: A easy to use web app where an user can build LaTeX type equations using buttons and outputs the result to the clipboard.
           - An extra would be a drag and drop design.
@@ -128,3 +128,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
