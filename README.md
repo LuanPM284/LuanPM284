@@ -1,6 +1,6 @@
 ## Luan Patrick Machado 🛸
 
-📍 [Brussels, Brussels Region, Belgium] | 📧 [mluanpatrick@gmail.com] | 🔗 [linkedin.com/in/luan-patrick-machado] | 🖥️ [github.com/LuanPM284]
+📍 [Brussels, Brussels Region, Belgium] | 📧 [mluanpatrick@gmail.com] | 🔗 [https://linkedin.com/in/luan-patrick-machado] | 🖥️ [https://github.com/LuanPM284]
 
 ## **`Junior Dev`**
 I have a strong interest in new technologies such as cloud, data, and AI. One of my future goals is to become proficient in those areas and possibly create personal projects that would allow me to apply that knowledge. Always open to learning and hearing new ideas, I believe that my years studying physics allowed me to appreciate the feedback of others and the different ways someone can approach a problem.
@@ -20,8 +20,8 @@ My hobbies include reading and manga/anime. Some of my recent favorites are:
 - Anime: One Piece, Frieren
 - Manga/Manhwa: Dungeon Odyssey
 -->
-I'm a Junior Software Developer passionate about web and software development, clean code, and learning new technologies. 
-During my internship at DiVintage SPRL, I had the opportunity to work on real-world projects that strengthened my skills in C#, Blazor, .NET, and front-end development. 
+I'm a **Junior Software Developer** passionate about web and software development, clean code, and learning new technologies. 
+During my internship at **DiVintage SPRL**, I had the opportunity to work on real-world projects that strengthened my skills in **C#, Blazor, .NET, and front-end development**. 
 I enjoy building efficient, scalable, and user-friendly applications while continuously improving my coding practices.
 
 ---
@@ -97,7 +97,7 @@ During my two-month internship, I focused on front-end development for two major
 
 #
 
-### Latest Personal Projects and Ideas
+### 👀 Latest Personal Projects and Ideas
 
 - Error Calculator: A easy to use web app where an user can build LaTeX type equations using buttons and outputs the result to the clipboard.
           - An extra would be a drag and drop design.
