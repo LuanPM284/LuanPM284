@@ -1,9 +1,11 @@
 ## Luan Patrick Machado 🛸
 
-## **`Junior Dev`**
+📍 [Brussels, Brussels Region, Belgium] | 📧 [mluanpatrick@gmail.com] | 🔗 [linkedin.com/in/luan-patrick-machado] | 🖥️ [github.com/LuanPM284]
 
+## **`Junior Dev`**
 I have a strong interest in new technologies such as cloud, data, and AI. One of my future goals is to become proficient in those areas and possibly create personal projects that would allow me to apply that knowledge. Always open to learning and hearing new ideas, I believe that my years studying physics allowed me to appreciate the feedback of others and the different ways someone can approach a problem.
 
+<!--
 I'm currently a Junior Web Developer trainee at BeCode, passionate about learning and building web applications. With a strong foundation in front-end and back-end technologies, I'm eager to expand my expertise in React,
 Node.js, Java, Python and others. I have experience working in fast-paced environments where adaptability and teamwork are key. My current goal is to apply my technical skills and problem-solving abilities in a challenging internship or junior
 developer role. I am open to new opportunities where I can continue growing and contribute to meaningful projects.
@@ -17,6 +19,51 @@ My hobbies include reading and manga/anime. Some of my recent favorites are:
 - Current Webnovel Obsession: The Wandering Inn and Shadow Slave
 - Anime: One Piece, Frieren
 - Manga/Manhwa: Dungeon Odyssey
+-->
+I'm a Junior Software Developer passionate about web and software development, clean code, and learning new technologies. 
+During my internship at DiVintage SPRL, I had the opportunity to work on real-world projects that strengthened my skills in C#, Blazor, .NET, and front-end development. 
+I enjoy building efficient, scalable, and user-friendly applications while continuously improving my coding practices.
+
+---
+
+### 💡 Internship Experience
+
+During my two-month internship, I focused on front-end development for two major projects:
+
+🔹 Back-Office for a Sales Funnel
+
+- Built a responsive and user-friendly interface for managing sales and customer interactions.
+- Developed dynamic UI components using Blazor and .NET.
+- Implemented real-time data handling with Entity Framework Core.
+- Ensured a smooth and intuitive user experience through clean UI/UX design.
+
+🔹 Web Version of a Dentist Management Software
+
+- Migrated an existing desktop dental software to a Blazor-based web application.
+- Designed and implemented the front-end architecture for managing patient data.
+- Collaborated with senior developers to optimize performance and usability.
+- Applied best practices for secure data handling and patient record management.
+
+### 🛠️ Tech Stack
+
+**Languages:** C#, JavaScript, HTML, CSS
+**Frameworks & Libraries:** Blazor, .NET, Entity Framework Core
+**Tools & Platforms:** Azure, Visual Studio, Git, SQL Server
+**Development Practices:** MVVM, Clean Code, Agile, TDD
+
+
+### 📚 What I Learned
+
+- How to build scalable front-end applications using Blazor.
+- Implementing MVVM architecture for structured code and maintainability.
+- Working with Entity Framework Core to manage database operations efficiently.
+- Writing clean, modular, and testable code.
+
+### 🎯 Next Steps
+
+- Expanding my knowledge in .NET Core and API development.
+- Exploring cloud computing and DevOps practices.
+- Building a portfolio website showcasing my internship journey and projects.
 
 ---
 
