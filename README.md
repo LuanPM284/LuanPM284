@@ -1,6 +1,6 @@
 ## Luan Patrick Machado 🛸
 
-|📍 [Brussels, Brussels Region, Belgium] | 📧 [mluanpatrick@gmail.com] |
+|📍 [Brussels, Brussels Region, Belgium] | 📧 [mluanpatrick@gmail.com] |\
 |🔗 [https://linkedin.com/in/luan-patrick-machado] | 🖥️ [https://github.com/LuanPM284] |
 
 ## **`Junior Developer`**
