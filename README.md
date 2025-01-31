@@ -44,26 +44,26 @@ During my two-month internship, I focused on front-end development for two major
 - Collaborated with senior developers to optimize performance and usability.
 - Applied best practices for **secure data handling** and patient record management.
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 - **Languages:** C#, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** Blazor, .NET, Entity Framework Core
 - **Tools & Platforms:** Azure, Visual Studio, Git, SQL Server
 - **Development Practices:** MVVM, Clean Code, Agile, TDD
 
-### 📌 Latest Projects
+#### 📌 Latest Projects
 
 - 🚀 **Backoffice for Sales Funnel** - *A web-based system for managing sales and customer interactions.*
 - 🔹 **Dental Software Web Version** - *A Blazor-based adaptation of a desktop dental management tool.*
 
-### 📚 What I Learned
+#### 📚 What I Learned
 
 - How to build **scalable front-end applications** using **Blazor**.
 - Implementing **MVVM architecture** for structured code and maintainability.
 - Working with **Entity Framework Core** to manage database operations efficiently.
 - Writing **clean, modular, and testable** code.
 
-### 🎯 Next Steps
+#### 🎯 Next Steps
 
 - Expanding my knowledge in **.NET Core and API development**.
 - Exploring **cloud computing and DevOps** practices.
