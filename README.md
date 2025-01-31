@@ -1,6 +1,7 @@
 ## Luan Patrick Machado 🛸
 
-📍 [Brussels, Brussels Region, Belgium] | 📧 [mluanpatrick@gmail.com] | 🔗 [https://linkedin.com/in/luan-patrick-machado] | 🖥️ [https://github.com/LuanPM284]
+|📍 [Brussels, Brussels Region, Belgium] | 📧 [mluanpatrick@gmail.com] |
+|🔗 [https://linkedin.com/in/luan-patrick-machado] | 🖥️ [https://github.com/LuanPM284] |
 
 ## **`Junior Developer`**
 I have a strong interest in new technologies such as cloud computing, data, and AI. One of my future goals is to become proficient in those areas and possibly create personal projects that allow me to apply that knowledge. Always open to learning and hearing new ideas, I believe that my years studying physics have helped me appreciate feedback from others and the different ways someone can approach a problem.
@@ -32,15 +33,15 @@ During my two-month internship, I focused on front-end development for two major
 
 🔹 Back-Office for a Sales Funnel
 
-- Built a **responsive and user-friendly** interface for managing sales and customer interactions.
+- Built a **responsive and user-friendly** interface for managing customer data visualization.
 - Developed dynamic UI components using **Blazor and .NET**.
-- Implemented real-time data handling with **Entity Framework Core**.
+- I was able to watch an implemented real-time data handling feature with **Entity Framework Core**.
 - Ensured a smooth and intuitive user experience through **clean UI/UX design**.
 
 🔹 Web Version of a Dentist Management Software
 
 - Migrated an existing desktop dental software to a **Blazor-based web application**.
-- Designed and implemented the **front-end architecture** for managing patient data.
+- Designed and implemented the **front-end architecture** for managing patient and calendar data.
 - Collaborated with senior developers to optimize performance and usability.
 - Applied best practices for **secure data handling** and patient record management.
 
@@ -48,7 +49,7 @@ During my two-month internship, I focused on front-end development for two major
 
 - **Languages:** C#, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** Blazor, .NET, Entity Framework Core
-- **Tools & Platforms:** Azure, Visual Studio, Git, SQL Server
+- **Tools & Platforms:** Azure, Visual Studio, Git
 - **Development Practices:** MVVM, Clean Code, Agile, TDD
 
 #### 📌 Latest Projects
