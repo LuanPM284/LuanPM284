@@ -2,8 +2,8 @@
 
 📍 [Brussels, Brussels Region, Belgium] | 📧 [mluanpatrick@gmail.com] | 🔗 [https://linkedin.com/in/luan-patrick-machado] | 🖥️ [https://github.com/LuanPM284]
 
-## **`Junior Dev`**
-I have a strong interest in new technologies such as cloud, data, and AI. One of my future goals is to become proficient in those areas and possibly create personal projects that would allow me to apply that knowledge. Always open to learning and hearing new ideas, I believe that my years studying physics allowed me to appreciate the feedback of others and the different ways someone can approach a problem.
+## **`Junior Developer`**
+I have a strong interest in new technologies such as cloud computing, data, and AI. One of my future goals is to become proficient in those areas and possibly create personal projects that allow me to apply that knowledge. Always open to learning and hearing new ideas, I believe that my years studying physics have helped me appreciate feedback from others and the different ways someone can approach a problem.
 
 <!--
 I'm currently a Junior Web Developer trainee at BeCode, passionate about learning and building web applications. With a strong foundation in front-end and back-end technologies, I'm eager to expand my expertise in React,
@@ -32,17 +32,17 @@ During my two-month internship, I focused on front-end development for two major
 
 🔹 Back-Office for a Sales Funnel
 
-- Built a responsive and user-friendly interface for managing sales and customer interactions.
-- Developed dynamic UI components using Blazor and .NET.
-- Implemented real-time data handling with Entity Framework Core.
-- Ensured a smooth and intuitive user experience through clean UI/UX design.
+- Built a **responsive and user-friendly** interface for managing sales and customer interactions.
+- Developed dynamic UI components using **Blazor and .NET**.
+- Implemented real-time data handling with **Entity Framework Core**.
+- Ensured a smooth and intuitive user experience through **clean UI/UX design**.
 
 🔹 Web Version of a Dentist Management Software
 
-- Migrated an existing desktop dental software to a Blazor-based web application.
-- Designed and implemented the front-end architecture for managing patient data.
+- Migrated an existing desktop dental software to a **Blazor-based web application**.
+- Designed and implemented the **front-end architecture** for managing patient data.
 - Collaborated with senior developers to optimize performance and usability.
-- Applied best practices for secure data handling and patient record management.
+- Applied best practices for **secure data handling** and patient record management.
 
 ### 🛠️ Tech Stack
 
@@ -51,19 +51,23 @@ During my two-month internship, I focused on front-end development for two major
 - **Tools & Platforms:** Azure, Visual Studio, Git, SQL Server
 - **Development Practices:** MVVM, Clean Code, Agile, TDD
 
+### 📌 Latest Projects
+
+- 🚀 **Backoffice for Sales Funnel** - *A web-based system for managing sales and customer interactions.*
+- 🔹 **Dental Software Web Version** - *A Blazor-based adaptation of a desktop dental management tool.*
 
 ### 📚 What I Learned
 
-- How to build scalable front-end applications using Blazor.
-- Implementing MVVM architecture for structured code and maintainability.
-- Working with Entity Framework Core to manage database operations efficiently.
-- Writing clean, modular, and testable code.
+- How to build **scalable front-end applications** using **Blazor**.
+- Implementing **MVVM architecture** for structured code and maintainability.
+- Working with **Entity Framework Core** to manage database operations efficiently.
+- Writing **clean, modular, and testable** code.
 
 ### 🎯 Next Steps
 
-- Expanding my knowledge in .NET Core and API development.
-- Exploring cloud computing and DevOps practices.
-- Building a portfolio website showcasing my internship journey and projects.
+- Expanding my knowledge in **.NET Core and API development**.
+- Exploring **cloud computing and DevOps** practices.
+- Building a **portfolio website** showcasing my internship journey and projects.
 
 ---
 
@@ -107,11 +111,13 @@ During my two-month internship, I focused on front-end development for two major
 
 <details>
 <summary><h3>🚲 My coding journey</h3></summary>
-My coding journey is just starting as I complete a Junior Web Dev bootcamp at BeCode. Before that, I had several years of university where I explored different areas, going from Biomedical Sciences, Nursing, and ending at Physics. I ended up noticing that the academic environment was not for me, even if I ended up learning a lot and also developed many of my current ideals and work ethic. I had the opportunity to meet different people with different backgrounds and work with them while facing hard classes and challenges.
-          
-Coding always fascinated me, especially the idea of being able to build something by myself using the different tools available. Having the chance to learn new technologies or old ideas and methods to solve a problem keeps it interesting, even if most of the times it's hard to accomplish.
+My coding journey is just starting as I complete a junior web development bootcamp at BeCode. Before that, I had several years of university where I explored different areas, starting with Biomedical Sciences, then moving to Nursing, and eventually ending in Physics. I realized that the academic environment was not for me, even though I learned a lot and also developed many of my current ideals and work ethic. I had the opportunity to meet different people with different backgrounds and work with them while facing difficult classes and challenges.
 
-I still have much to learn and understand, but one thing I can be sure of is that once I'm in the field and working hard, I will succeed at anything that I put my mind to.
+The next step on my journey is the internship opportunity I had at DiVintage SPRL, where I was mentored by Senior Software Developer Ghislain Roggemans. The first steps I was given to understand were the importance of Clean Code, Test-Driven Development, and the MVVM architecture. From day one, I was given the opportunity to work on a real-world project where my small contributions would be visible or implemented after review and corrections. I had to learn new technologies such as Blazor, C#, and Visual Studio 2022, which I had never seen before starting this internship. My supervisor was always working and busy with his own projects and work but always set some time aside to check my progress, explain mistakes or suggest better ways to accomplish tasks that would take me hours in just a few minutes, and help prepare me for a future job. It was not easy, and from the first day, I was told by my supervisor that it would be hard, but that was the only way I would be sure to learn and leave better than when I started. Being able to work hard on challenging problems (for my level) allowed me to see just how much I have to learn and how working every day and continuing to learn would allow me to go farther than I thought possible when I started my coding career.
+          
+Coding always fascinated me, especially the idea of being able to build something by myself using the various tools available. Having the chance to learn new technologies or explore old ideas and methods to solve a problem keeps it interesting, even if most of the time it's hard to accomplish.
+
+I still have much to learn and understand, but one thing I am sure of is that once I'm in the field and working hard, I will succeed at anything I set my mind to.
           
 </details>
 <!--
